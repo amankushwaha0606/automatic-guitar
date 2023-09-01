@@ -2,8 +2,6 @@
 
 This project demonstrates how to create an automatic guitar using Arduino and servo motors. By following this guide, you can build a simple musical instrument that plays predefined notes automatically. Feel free to customize and extend the project to create your own melodies or experiment with different servo configurations.
 
-![Automatic Guitar](images/automatic_guitar.jpg)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
